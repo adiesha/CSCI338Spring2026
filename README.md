@@ -127,3 +127,10 @@ Failure to abide by these rules will result in everyone involved being reported 
 - If you do not know the LaTeX code for a specific mathematical symbol, you can use the following [website](https://detexify.kirelabs.org/classify.html): https://detexify.kirelabs.org/classify.html Draw the symbol that you want; it will provide you the necessary code for that symbol and the packages that you have to import.
 - Using LaTeX for mathematical writing is infinitely easier than using Word or handwriting the solutions once you get the hang of it.
 
+## Late policy
+- You are responsible for any announcements about assignments made in class, on Discord, on D2L, and here on the course website. You must pay attention to these announcements.
+- You can submit as many times as you would like; the TA will only grade your last submission.
+- If you submit within 24 hours of the due date, you get 20% off of the score you earn. If you submit within two days of the due date, you get 40% off. Otherwise, no points are possible.
+
+## Missing Tests
+If you are going to miss a test, you need to discuss this prior to missing the class. Serious illness or a serious family emergency are valid reasons requiring an accommodation, but other reasons are not (travel, employment schedule conflict).
