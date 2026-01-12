@@ -88,7 +88,8 @@ This course meets on Mondays, Wednesdays, and Fridays from 11:00 a.m. to 11:50 a
 Since this is a theory course, the majority of your grade comes from assignments, tests, and a final.
 You will be graded on the following:
 - Assignments 42%: There will be at least 6 assignments. I will either drop the lowest-grade assignment or replace it with the highest-grade assignment.
-- Pop-up quizzes 8%: These are lightly graded, there will be around 12 pop-up tests, best 8 will be counted towards the final grade.
+- Pop-up quizzes 4%: These are lightly graded, there will be around 10-12 pop-up tests, best 8 will be counted towards the final grade.
+- Attendance 4%: We will use iClicker to record the attendance. 
 - In class tests 30%: 3 In-class tests, they will be announced at least one week ahead.
 - Final Test (optional) 20%
 
