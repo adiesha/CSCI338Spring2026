@@ -8,15 +8,15 @@ Course schedule
 
 | Week # 	|             Date             	|              Lecture Topic             	| Recommended reading 	| HW due 	|
 |:------:	|:----------------------------:	|:--------------------------------------:	|:-------------------:	|:------:	|
-|    1   	|  Wednesday, January 14, 2026 	|       Course overview and basics       	|                     	|        	|
-|    1   	|   Friday, January 16, 2026   	|            Basic Structures            	|                     	|        	|
+|    1   	|  Wednesday, January 14, 2026 	|       Course overview and basics       	|  Ch 0               	|        	|
+|    1   	|   Friday, January 16, 2026   	|            Basic Structures            	|  Ch 0               	|        	|
 |    2   	|   Monday, January 19, 2026   	|           Martin L. King day           	|                     	|        	|
 |    2   	|  Wednesday, January 21, 2026 	|     Functions, relations and proofs    	|                     	|        	|
 |    2   	|   Friday, January 23, 2026   	|        Final recap and exercises       	|                     	|        	|
 |    3   	|   Monday, January 26, 2026   	|  Planar graphs, DFA, Regular Languages 	|                     	|        	|
 |    3   	|  Wednesday, January 28, 2026 	|       DFA and Regular languages        	|                     	|        	|
 |    3   	|   Friday, January 30, 2026   	|                   NFA                  	|                     	|        	|
-|    4   	|   Monday, February 2, 2026   	|                 DFA=NFA                	|                     	|        	|
+|    4   	|   Monday, February 2, 2026   	|                 DFA=NFA                	|                     	|  Assignment 1 Due      	|
 |    4   	|  Wednesday, February 4, 2026 	|           NFA related proofs           	|                     	|        	|
 |    4   	|   Friday, February 6, 2026   	|  Regular expressions=Regular languages 	|                     	|        	|
 |    5   	|   Monday, February 9, 2026   	|              DFA to regex              	|                     	|        	|
