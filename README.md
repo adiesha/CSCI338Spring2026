@@ -13,7 +13,7 @@ Course schedule
 |    2   	|   Monday, January 19, 2026   	|           Martin L. King day           	|                     	|        	|
 |    2   	|  Wednesday, January 21, 2026 	|     Functions, relations and proofs    	|                     	|        	|
 |    2   	|   Friday, January 23, 2026   	|        Final recap and exercises       	|                     	|        	|
-|    3   	|   Monday, January 26, 2026   	|  Planar graphs, DFA, Regular Languages 	|                     	|        	|
+|    3   	|   Monday, January 26, 2026   	|  Planar graphs, DFA, Regular Languages 	|  Ch 1 (page 31-46)  	|        	|
 |    3   	|  Wednesday, January 28, 2026 	|       DFA and Regular languages        	|                     	|        	|
 |    3   	|   Friday, January 30, 2026   	|                   NFA                  	|                     	|        	|
 |    4   	|   Monday, February 2, 2026   	|                 DFA=NFA                	|                     	|  Assignment 1 Due      	|
