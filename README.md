@@ -12,7 +12,7 @@ Course schedule
 |    1   	|   Friday, January 16, 2026   	|            [Review Part 1]([https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2001/Review_Part_1.pdf](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2002/Review%20Part%201.pdf))            	|  Ch 0               	|        	|
 |    2   	|   Monday, January 19, 2026   	|           Martin L. King day           	|                     	|        	|
 |    2   	|  Wednesday, January 21, 2026 	|     [Review Part 2: Functions, relations and proofs](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2003/Review%20Part%202.pdf)    	|                     	|        	|
-|    2   	|   Friday, January 23, 2026   	|        [Review Part 4: Final recap and exercises](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2004/Review%204.pdf)       	|                     	|        	|
+|    2   	|   Friday, January 23, 2026   	|        [Review Part 3: Final recap and exercises](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2004/Review%204.pdf)       	|                     	|        	|
 |    3   	|   Monday, January 26, 2026   	|  Planar graphs, DFA, Regular Languages 	|  Ch 1 (page 31-46)  	|        	|
 |    3   	|  Wednesday, January 28, 2026 	|       DFA and Regular languages        	|                     	|        	|
 |    3   	|   Friday, January 30, 2026   	|                   NFA                  	|                     	|        	|
