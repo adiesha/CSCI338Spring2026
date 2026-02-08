@@ -13,12 +13,12 @@ Course schedule
 |    2   	|   Monday, January 19, 2026   	|           Martin L. King day           	|                     	|        	|
 |    2   	|  Wednesday, January 21, 2026 	|     [Review Part 2: Functions, relations and proofs](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2003/Review%20Part%202.pdf)    	|                     	|        	|
 |    2   	|   Friday, January 23, 2026   	|        [Review Part 3: Final recap and exercises](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2004/Review%204.pdf)       	|                     	|        	|
-|    3   	|   Monday, January 26, 2026   	|  Planar graphs, DFA, Regular Languages 	|  Ch 1 (page 31-46)  	|        	|
-|    3   	|  Wednesday, January 28, 2026 	|       DFA and Regular languages        	|                     	|        	|
-|    3   	|   Friday, January 30, 2026   	|                   NFA                  	|                     	|        	|
-|    4   	|   Monday, February 2, 2026   	|                 DFA=NFA                	|                     	|  Assignment 1 Due      	|
-|    4   	|  Wednesday, February 4, 2026 	|           NFA related proofs           	|                     	|        	|
-|    4   	|   Friday, February 6, 2026   	|  Regular expressions=Regular languages 	|                     	|        	|
+|    3   	|   Monday, January 26, 2026   	|  [DFA introduction](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2005/Finite%20Automaton%20Introduction.pdf)	|  Ch 1 (page 31-46)  	|        	|
+|    3   	|  Wednesday, January 28, 2026 	|       [DFA and Regular languages](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2006/finite%20Automaton_260128_132910.pdf)        	|                     	|        	|
+|    3   	|   Friday, January 30, 2026   	|                   [NFA](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2007/NFA.pdf)                  	|                     	|        	|
+|    4   	|   Monday, February 2, 2026   	|                 [DFA=NFA](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2008/NFA%3DDFA%20Part%201.pdf)                	|                     	|  Assignment 1 Due      	|
+|    4   	|  Wednesday, February 4, 2026 	|           [DFA=NFA part 2](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2009/NFA%3DDFA%20Part%202.pdf)           	|                     	|        	|
+|    4   	|   Friday, February 6, 2026   	|  [NFA related proofs](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2010/NFA%20related%20proofs.pdf) 	|                     	|        	|
 |    5   	|   Monday, February 9, 2026   	|              DFA to regex              	|                     	|        	|
 |    5   	| Wednesday, February 11, 2026 	|              Pumping Lemma             	|                     	|        	|
 |    5   	|   Friday, February 13, 2026  	|       Pumping Lemma Applications       	|                     	|        	|
