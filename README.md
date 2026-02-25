@@ -25,7 +25,7 @@ Course schedule
 |    6   	|   Monday, February 16, 2026  	|             President's Day            	|                     	|        	|
 |    6   	| Wednesday, February 18, 2026 	|          [Pumping Lemma Applications](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2014/Applications%20of%20pumping%20lemma_complete.pdf), [CFG intro](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2014/CFG.pdf)          	|                     	|        	|
 |    6   	|   Friday, February 20, 2026  	|                   [CFG and Parse Trees](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2015/CFG_Parse_Tree_and_Regular_languages.pdf)                  	|   Ch 2                  	|        	|
-|    7   	|   Monday, February 23, 2026  	|           Test 1 (Tentative)           	|                     	|        	|
+|    7   	|   Monday, February 23, 2026  	|           Test 1                       	|                     	|        	|
 |    7   	| Wednesday, February 25, 2026 	|            CFG and ambiguity           	|                     	|        	|
 |    7   	|   Friday, February 27, 2026  	|               CNF and PDA              	|                     	|        	|
 |    8   	|     Monday, March 2, 2026    	|          Pumping Lemma for CFL         	|                     	|        	|
