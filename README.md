@@ -26,11 +26,11 @@ Course schedule
 |    6   	| Wednesday, February 18, 2026 	|          [Pumping Lemma Applications](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2014/Applications%20of%20pumping%20lemma_complete.pdf), [CFG intro](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2014/CFG.pdf)          	|                     	|        	|
 |    6   	|   Friday, February 20, 2026  	|                   [CFG and Parse Trees](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2015/CFG_Parse_Tree_and_Regular_languages.pdf)                  	|   Ch 2                  	|        	|
 |    7   	|   Monday, February 23, 2026  	|           Test 1                       	|                     	|        	|
-|    7   	| Wednesday, February 25, 2026 	|            CFG and ambiguity           	|                     	|        	|
-|    7   	|   Friday, February 27, 2026  	|               CNF and PDA              	|                     	|        	|
-|    8   	|     Monday, March 2, 2026    	|          Pumping Lemma for CFL         	|                     	|        	|
-|    8   	|   Wednesday, March 4, 2026   	|      CFL pumping Lemma Application     	|                     	|        	|
-|    8   	|     Friday, March 6, 2026    	|             Diagonalization            	|                     	|        	|
+|    7   	| Wednesday, February 25, 2026 	|            [CFG and ambiguity](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2016/CFG_and_ambiguity.pdf)           	|                     	|        	|
+|    7   	|   Friday, February 27, 2026  	|               [CNF](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2017/CNF_conversion.pdf) and [PDA](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2017/Intro%20to%20PDA.pdf)              	|                     	|        	|
+|    8   	|     Monday, March 2, 2026    	|          [PDA examples](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2018/PDA%20examples.pdf)         	|                     	|        	|
+|    8   	|   Wednesday, March 4, 2026   	|      [PDA=CFL](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2019/PDA%3DCFL_260306_114419.pdf)     	|                     	|        	|
+|    8   	|     Friday, March 6, 2026    	|             Pumping Lemma for CFL, CFL pumping Lemma Application, Diagonalization            	|                     	|        	|
 |    9   	|     Monday, March 9, 2026    	|             Turing Machines            	|                     	|        	|
 |    9   	|   Wednesday, March 11, 2026  	|               Decidablity              	|                     	|        	|
 |    9   	|    Friday, March 13, 2026    	|            Decidability CFG            	|                     	|        	|
