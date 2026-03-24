@@ -30,14 +30,14 @@ Course schedule
 |    7   	|   Friday, February 27, 2026  	|               [CNF](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2017/CNF_conversion.pdf) and [PDA](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2017/Intro%20to%20PDA.pdf)              	|                     	|        	|
 |    8   	|     Monday, March 2, 2026    	|          [PDA examples](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2018/PDA%20examples.pdf)         	|                     	|        	|
 |    8   	|   Wednesday, March 4, 2026   	|      [PDA=CFL](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2019/PDA%3DCFL_260306_114419.pdf)     	|                     	|        	|
-|    8   	|     Friday, March 6, 2026    	|             Pumping Lemma for CFL, CFL pumping Lemma Application, Diagonalization            	|                     	|        	|
-|    9   	|     Monday, March 9, 2026    	|             Turing Machines            	|                     	|        	|
-|    9   	|   Wednesday, March 11, 2026  	|               Decidablity              	|                     	|        	|
-|    9   	|    Friday, March 13, 2026    	|            Decidability CFG            	|                     	|        	|
+|    8   	|     Friday, March 6, 2026    	|             [Pumping Lemma for CFL](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2020/Applications%20of%20pumping%20Lemma_260309_114414.pdf), [CFL pumping Lemma Application](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2020/Pumping%20Lemma%20for%20CFL_260309_112415.pdf),             	|                     	|        	|
+|    9   	|     Monday, March 9, 2026    	|             [CFL Pumping Lemma applications cont,](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2021/Applications%20of%20pumping%20Lemma_260311_131501.pdf)            	|                     	|        	|
+|    9   	|   Wednesday, March 11, 2026  	|               [Diagonalization](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2022/Diagonalisation.pdf),              	|                     	|        	|
+|    9   	|    Friday, March 13, 2026    	|            [Turing Machines](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2023/Turing%20machines_260323_181753.pdf)            	|                     	|        	|
 |   10   	|    Monday, March 16, 2026    	|              Spring break              	|                     	|        	|
 |   10   	|   Wednesday, March 18, 2026  	|              Spring break              	|                     	|        	|
 |   10   	|    Friday, March 20, 2026    	|              Spring break              	|                     	|        	|
-|   11   	|    Monday, March 23, 2026    	|              Undecidablity             	|                     	|        	|
+|   11   	|    Monday, March 23, 2026    	|      Decidablity, Decidability CFG, Undecidablity             	|                     	|        	|
 |   11   	|   Wednesday, March 25, 2026  	|           Basics of Reduction          	|                     	|        	|
 |   11   	|    Friday, March 27, 2026    	|              Undecidablity             	|                     	|        	|
 |   12   	|    Monday, March 30, 2026    	|           More Undecidability          	|                     	|        	|
