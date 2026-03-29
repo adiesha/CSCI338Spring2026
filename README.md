@@ -37,8 +37,8 @@ Course schedule
 |   10   	|    Monday, March 16, 2026    	|              Spring break              	|                     	|        	|
 |   10   	|   Wednesday, March 18, 2026  	|              Spring break              	|                     	|        	|
 |   10   	|    Friday, March 20, 2026    	|              Spring break              	|                     	|        	|
-|   11   	|    Monday, March 23, 2026    	|      Decidablity, Decidability CFG, Undecidablity             	|                     	|        	|
-|   11   	|   Wednesday, March 25, 2026  	|           Basics of Reduction          	|                     	|        	|
+|   11   	|    Monday, March 23, 2026    	|  [Turing Machines Part 2](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2024/Turing%20machines_Part%202.pdf)    [Decidablity Part 1](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2024/Decidability%20Part%201.pdf)             	|                     	|        	|
+|   11   	|   Wednesday, March 25, 2026  	|           [Decidability of labguages related DFA](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2025/Decidability_of_DFA_related_languages.pdf), [Decidability of languages related to CFG](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2025/Decidable%20languages%20related%20to%20CFGs_260328_131757.pdf)          	|                     	|        	|
 |   11   	|    Friday, March 27, 2026    	|              Undecidablity             	|                     	|        	|
 |   12   	|    Monday, March 30, 2026    	|           More Undecidability          	|                     	|        	|
 |   12   	|   Wednesday, April 1, 2026   	| Undecidablity with computation history 	|                     	|        	|
