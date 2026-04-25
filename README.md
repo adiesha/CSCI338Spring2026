@@ -39,19 +39,19 @@ Course schedule
 |   10   	|    Friday, March 20, 2026    	|              Spring break              	|                     	|        	|
 |   11   	|    Monday, March 23, 2026    	|  [Turing Machines Part 2](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2024/Turing%20machines_Part%202.pdf)    [Decidablity Part 1](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2024/Decidability%20Part%201.pdf)             	|                     	|        	|
 |   11   	|   Wednesday, March 25, 2026  	|           [Decidability of labguages related DFA](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2025/Decidability_of_DFA_related_languages.pdf), [Decidability of languages related to CFG](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2025/Decidable%20languages%20related%20to%20CFGs_260328_131757.pdf)          	|                     	|        	|
-|   11   	|    Friday, March 27, 2026    	|              Undecidablity             	|                     	|        	|
-|   12   	|    Monday, March 30, 2026    	|           More Undecidability          	|                     	|        	|
-|   12   	|   Wednesday, April 1, 2026   	| Undecidablity with computation history 	|                     	|        	|
+|   11   	|    Friday, March 27, 2026    	|              [Undecidablity](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2026/Undecidability.pdf)             	|                     	|        	|
+|   12   	|    Monday, March 30, 2026    	|           [Undecidability with reductions](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2027/Undecidability%20with%20reductions_260402_201506.pdf)           	|                     	|        	|
+|   12   	|   Wednesday, April 1, 2026   	| [More undecidability proofs](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2028/More%20undecidability%20proofs.pdf) 	|                     	|        	|
 |   12   	|     Friday, April 3, 2026    	|             University day             	|                     	|        	|
-|   13   	|     Monday, April 6, 2026    	|       Reductions via com history       	|                     	|        	|
-|   13   	|   Wednesday, April 8, 2026   	|        PCP and map reducibility        	|                     	|        	|
-|   13   	|    Friday, April 10, 2026    	|        Computational complextiy        	|                     	|        	|
+|   13   	|     Monday, April 6, 2026    	|       [Reductions via computational history](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2029/Reductions%20via%20computation%20histories.pdf)       	|                     	|        	|
+|   13   	|   Wednesday, April 8, 2026   	|        [PCP and map reducibility](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2030/PCP%20and%20mapping%20reducibiliy.pdf)        	|                     	|        	|
+|   13   	|    Friday, April 10, 2026    	|        [Computational complextiy](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2031/Computational%20Complexity_260410_133745.pdf)        	|                     	|        	|
 |   14   	|    Monday, April 13, 2026    	|           Test 2 (Tentative)           	|                     	|        	|
-|   14   	|   Wednesday, April 15, 2026  	|               Class of P               	|                     	|        	|
-|   14   	|    Friday, April 17, 2026    	|   Polynomial time algorithm for A_CFG  	|                     	|        	|
-|   15   	|    Monday, April 20, 2026    	|               class of NP              	|                     	|        	|
-|   15   	|   Wednesday, April 22, 2026  	|        NP-completeness continued       	|                     	|        	|
-|   15   	|    Friday, April 24, 2026    	|       Polynomial time reductions       	|                     	|        	|
+|   14   	|   Wednesday, April 15, 2026  	|               [Class of P](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2032/Computational%20Complexity%20and%20class%20of%20P.pdf)               	|                     	|        	|
+|   14   	|    Friday, April 17, 2026    	|   [Polynomial time algorithm for A_CFG](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2032/Polynomial%20time%20algorithm%20for%20A_CFG_260415_224208.pdf), [A_CFG DP algorithm](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2032/A_CFG.docx)  	|                     	|        	|
+|   15   	|    Monday, April 20, 2026    	|               [class of NP](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2033/NP%20class.pdf)              	|                     	|        	|
+|   15   	|   Wednesday, April 22, 2026  	|        [NP-completeness](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2034/NP%20class.pdf)       	|                     	|        	|
+|   15   	|    Friday, April 24, 2026    	|       [NP-Completeness](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2035/NP-completeness.pdf), [Polytime reductions-HC](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2035/Polynomial%20time%20reductions_Hamiltonian_Cycle.pdf), [NPC proofs cont Part 1](https://github.com/adiesha/CSCI338Spring2026/blob/master/Notes/Lecture%2036/Polynomial%20time%20reductions%20and%20NPC%20proofs%20part%201.pdf)       	|                     	|        	|
 |   16   	|    Monday, April 27, 2026    	|           NP-Complete proofs           	|                     	|        	|
 |   16   	|   Wednesday, April 29, 2026  	|                 Test 3                 	|                     	|        	|
 |   16   	|      Friday, May 1, 2026     	|                                        	|                     	|        	|
